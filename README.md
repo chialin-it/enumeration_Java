@@ -1,5 +1,5 @@
 # enumeration_Java
-This is a UOW school assignment that focuses on my understanding of enumeration in Java programming.
+This is a UOW academic assignment that focuses on my understanding of enumeration in Java programming.
 
 Visit https://www.geeksforgeeks.org/enum-in-java/ to understand enumeration.
 
